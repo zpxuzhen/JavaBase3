@@ -1,0 +1,17 @@
+com.test1.thread 线程
+com.test2.io 文件操作
+com.test3.sound 声音
+com.test4.socket.s1 CS模型-单工
+com.test4.socket.s2 CS模型-半双工
+com.test4.socket.s3 CS模型-全双工
+com.test4.socket.s4 CS模型-对象流
+com.test5.javaMail 邮件
+com.test6.qrcode 二维码
+com.test7.screenShot 截屏
+
+重要:
+com.tools.sqlhelper 数据库
+SQLHelper.java 工具类
+SQLHelperTest.java 测试用例
+
+dbinfo.properties 数据库配置文件
